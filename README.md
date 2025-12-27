@@ -1,4 +1,8 @@
-## Hi there 👋
+Hello and welcome!
+
+My current goal is to learn Godot for personal application development. 
+
+I'm currently working on a Charlotte Mason inspired home instruction application where I can document and schedule my school years as a teacher! 
 
 <!--
 **LacyRenee/LacyRenee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
